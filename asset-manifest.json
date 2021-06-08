@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CriptoCotize/static/css/main.aa83dde1.chunk.css",
+    "main.js": "/CriptoCotize/static/js/main.4b4c2689.chunk.js",
+    "main.js.map": "/CriptoCotize/static/js/main.4b4c2689.chunk.js.map",
+    "runtime-main.js": "/CriptoCotize/static/js/runtime-main.c6071cb6.js",
+    "runtime-main.js.map": "/CriptoCotize/static/js/runtime-main.c6071cb6.js.map",
+    "static/js/2.69b859dc.chunk.js": "/CriptoCotize/static/js/2.69b859dc.chunk.js",
+    "static/js/2.69b859dc.chunk.js.map": "/CriptoCotize/static/js/2.69b859dc.chunk.js.map",
+    "static/js/3.740ae44f.chunk.js": "/CriptoCotize/static/js/3.740ae44f.chunk.js",
+    "static/js/3.740ae44f.chunk.js.map": "/CriptoCotize/static/js/3.740ae44f.chunk.js.map",
+    "index.html": "/CriptoCotize/index.html",
+    "static/css/main.aa83dde1.chunk.css.map": "/CriptoCotize/static/css/main.aa83dde1.chunk.css.map",
+    "static/js/2.69b859dc.chunk.js.LICENSE.txt": "/CriptoCotize/static/js/2.69b859dc.chunk.js.LICENSE.txt",
+    "static/media/cryptomonedas.51f1d2ed.png": "/CriptoCotize/static/media/cryptomonedas.51f1d2ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6071cb6.js",
+    "static/js/2.69b859dc.chunk.js",
+    "static/css/main.aa83dde1.chunk.css",
+    "static/js/main.4b4c2689.chunk.js"
+  ]
+}
